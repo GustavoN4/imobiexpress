@@ -5,7 +5,7 @@ import { Header } from "../Components/Header/Header";
 import { ErrorScreen } from "../Pages/Error/ErrorScreen";
 import { LoginScreen } from "../Pages/Login/LoginScreen";
 import { CadastroScreen } from "../Pages/Cadastro/CadastroScreen";
-import { Imoveis } from "../Pages/imobi/Imobi";
+import { Imoveis } from "../Pages/Imobi/Imobi";
 
 
 export function RouterApp() {
